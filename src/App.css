@@ -32,7 +32,15 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.MainDiv {
+  width: 500px;
+  margin: 0 auto;
+  align-items: center;
+
 }

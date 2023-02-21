@@ -1,0 +1,24 @@
+Button.Button {
+    background-color: grey;
+    color: white;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0 12px;
+
+}
+
+.btn-container-add-todo {
+    margin: 24px 0;
+}
+
+.form-container {
+    background-color: #d9d9d9;
+}
+
+.input-color {
+    background-color: white;
+}
