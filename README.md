@@ -6,7 +6,7 @@ To install and run this project in your computer, run the following commands:
 
 # Cloning the Git repo
 
-The code for this project is located on github at the following URL todo-rest-api
+The code for this project is located on github at the following URL `react-to-do`
 
 In order to clone it into your project, you can simply type the following command from the to-do folder where you would like to install the project.
 ### cd to-do
