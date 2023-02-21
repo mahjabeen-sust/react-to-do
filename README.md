@@ -1,3 +1,6 @@
+# Introduction
+This project builds a front-end with React to create and maintain to-dos. The `Add ToDo` button brings a form so that a user can add some todo with Title, Deadline and Status. Once the from is submitted the added todos are shown in a list. User can delete a todo by clicking the todo on the list.
+
 # Project Setup
 
 To install and run this project in your computer, run the following commands:
